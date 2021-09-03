@@ -1,0 +1,23 @@
+.item:hover
+{
+  transition-duration: 500ms;
+  transform: scale(1.05);
+  box-shadow: 0px 2px 6px 0px rgb(194,194,194);
+}
+.top
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.col
+{
+  text-align: center;
+
+}
+.content
+{
+  margin-left: auto;
+  margin-right: auto;
+}

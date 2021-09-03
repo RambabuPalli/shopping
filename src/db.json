@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "p_img": "apple.png",
+      "p_name": "Apple",
+      "p_id": 1,
+      "p_cost": 30,
+      "p_availability": 1,
+      "p_details": "Imported from Swiss",
+      "p_category": "Premium",
+      "p_quantity": 0
+    },
+    {
+      "p_img": "mango.png",
+      "p_name": "Mango",
+      "p_id": 2,
+      "p_cost": 50,
+      "p_availability": 1,
+      "p_details": "Farmed at Selam",
+      "p_category": "Tamilnadu",
+      "p_quantity": 0
+    },
+    {
+      "p_img": "bananas.png",
+      "p_name": "Bananna",
+      "p_id": 3,
+      "p_cost": 5,
+      "p_availability": 0,
+      "p_category": "",
+      "p_details": "",
+      "p_quantity": 0
+    },
+    {
+      "p_img": "orange.png",
+      "p_name": "Orange",
+      "p_id": 4,
+      "p_cost": 25,
+      "p_availability": 1,
+      "p_details": "from Nagpur",
+      "p_category": "Premium",
+      "p_quantity": 0
+    }
+  ],
+  "cart": [
+    {
+      "data": {
+        "p_img": "apple.png",
+        "p_name": "Apple",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium",
+        "p_quantity": 3
+      },
+      "total_cost": 90,
+      "id": 1
+    },
+    {
+      "data": {
+        "p_img": "apple.png",
+        "p_name": "Apple",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium",
+        "p_quantity": 2
+      },
+      "total_cost": 60,
+      "id": 2
+    },
+    {
+      "data": {
+        "p_img": "apple.png",
+        "p_name": "Apple",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium",
+        "p_quantity": 3
+      },
+      "total_cost": 90,
+      "id": 3
+    },
+    {
+      "data": {
+        "p_img": "apple.png",
+        "p_name": "Apple",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium",
+        "p_quantity": 2
+      },
+      "total_cost": 60,
+      "id": 4
+    },
+    {
+      "data": {
+        "p_img": "mango.png",
+        "p_name": "Mango",
+        "p_id": 2,
+        "p_cost": 50,
+        "p_availability": 1,
+        "p_details": "Farmed at Selam",
+        "p_category": "Tamilnadu",
+        "p_quantity": 1
+      },
+      "total_cost": 50,
+      "id": 5
+    }
+  ]
+}
